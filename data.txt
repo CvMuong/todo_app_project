@@ -1,0 +1,7 @@
+✅ To-do App nâng cao
+
+CRUD task, đánh dấu hoàn thành, lọc theo trạng thái.
+
+Lưu vào localStorage.
+
+🎯 Kỹ năng: State, localStorage, component tái sử dụng.
